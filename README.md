@@ -2,11 +2,10 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre Mi
 
-👨‍💻 &nbsp;Actualmente me desempeño como desarrollador especializado en UX/UI, con más de 2 años de experiencia creando soluciones digitales centradas en el usuario.  
-📍 &nbsp;Vivo en Buenos Aires, Argentina.  
-💡 &nbsp;Me encanta explorar nuevas tecnologías y desarrollar soluciones eficientes, funcionales y con buen diseño.  
+👨‍💻 &nbsp;Vivo en Buenos Aires, Argentina. Soy un desarrollador especializado en UX/UI, con más de 2 años de experiencia creando soluciones digitales centradas en el usuario.  
 🎓 &nbsp;Cuento con certificaciones en **Python desde cero** (bases sólidas en programación estructurada), **Web Scraping con Python** (automatización de extracción de datos) y **MCP - Model Context Protocol** (modelado de sistemas basados en contexto).  
-🌱 &nbsp;Actualmente estoy profundizando mis conocimientos en arquitectura de microservicios, accesibilidad digital y diseño de productos escalables.  
+🌱 &nbsp;Actualmente estoy profundizando mis conocimientos en arquitectura de microservicios, accesibilidad digital y diseño de productos escalables.
+
 ✉️ &nbsp;¡Escribime a [maxxfiguera@gmail.com](maxxfiguera@gmail.com)! Intentaré responderte lo antes posible.  
 📄 &nbsp;Podés ver más sobre mi experiencia en mi [Portfolio Web](https://portfolio-web-lyart-six.vercel.app/) o en mis [proyectos de GitHub](https://github.com/degszz).
 
@@ -48,7 +47,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=degszz&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
