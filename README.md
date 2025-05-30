@@ -58,7 +58,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ask2001/](https://www.linkedin.com/in/maximo-figuera-531231323/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:maxxfiguera@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/aditya_kanoi123/](https://www.instagram.com/yvlmaxi/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ask2001/](https://www.linkedin.com/in/maximo-figuera-531231323/"><img src="https://img.shields.io/badge/-Maximo%20Figuera-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:maxxfiguera@gmail.com"><img src="https://img.shields.io/badge/maxxfiguera-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/aditya_kanoi123/](https://www.instagram.com/yvlmaxi/"><img src="https://img.shields.io/badge/yvlmaxi-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
