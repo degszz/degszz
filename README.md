@@ -16,8 +16,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-fff?style=for-the-badge&logo=typescript&logoColor=%3178C6)&nbsp;
-![React](https://img.shields.io/badge/react-3670A0?style=for-the-badge&logo=React&logoColor=61DAFB))&nbsp;
-![Nextjs](https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=Next.js&logoColor=white))&nbsp;
+![React](https://img.shields.io/badge/react-3670A0?style=for-the-badge&logo=React&logoColor=61DAFB)&nbsp;
+![Nextjs](https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=Next.js&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindCSS-156775?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
