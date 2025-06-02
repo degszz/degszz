@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre Mi
 
-👨‍💻 &nbsp;Vivo en Buenos Aires, Argentina. Soy un desarrollador especializado en UX/UI, con más de 2 años de experiencia creando soluciones digitales centradas en el usuario.  
+👨‍💻 &nbsp;Vivo en Buenos Aires, Argentina. Soy un desarrollador especializado en UX/UI, con más de 3 años de experiencia creando soluciones digitales centradas en el usuario.  
 🎓 &nbsp;Cuento con certificaciones en **Python desde cero** (bases sólidas en programación estructurada), **Web Scraping con Python** (automatización de extracción de datos) y **MCP - Model Context Protocol** (modelado de sistemas basados en contexto).  
 🌱 &nbsp;Actualmente estoy profundizando mis conocimientos en arquitectura de microservicios, accesibilidad digital y diseño de productos escalables.
 
