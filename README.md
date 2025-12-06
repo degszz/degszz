@@ -7,7 +7,7 @@
 🌱 &nbsp;Actualmente estoy profundizando mis conocimientos en arquitectura de microservicios, accesibilidad digital y diseño de productos escalables.
 
 ✉️ &nbsp;¡Escribime a [maxxfiguera@gmail.com](maxxfiguera@gmail.com)! Intentaré responderte lo antes posible.  
-📄 &nbsp;Podés ver más sobre mi experiencia en mi [Portfolio Web](https://portfolio-web-lyart-six.vercel.app/) o en mis [proyectos de GitHub]([https://github.com/degszz](https://github.com/degszz?tab=repositories)).
+📄 &nbsp;Podés ver más sobre mi experiencia en mi [Portfolio Web](https://maxportfolio-peach.vercel.app/) o en mis [proyectos de GitHub]([https://github.com/degszz](https://github.com/degszz?tab=repositories)).
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
